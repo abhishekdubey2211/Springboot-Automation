@@ -60,6 +60,7 @@
 
 
 	<build>
+		<finalname>HotelService</finalname>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>
